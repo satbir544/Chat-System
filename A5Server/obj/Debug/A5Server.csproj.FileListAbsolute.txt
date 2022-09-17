@@ -1,0 +1,15 @@
+C:\Users\satbi\source\repos\A5Server\A5Server\bin\Debug\A5Server.exe.config
+C:\Users\satbi\source\repos\A5Server\A5Server\bin\Debug\A5Server.exe
+C:\Users\satbi\source\repos\A5Server\A5Server\bin\Debug\A5Server.pdb
+C:\Users\satbi\source\repos\A5Server\A5Server\obj\Debug\A5Server.csprojAssemblyReference.cache
+C:\Users\satbi\source\repos\A5Server\A5Server\obj\Debug\A5Server.csproj.CoreCompileInputs.cache
+C:\Users\satbi\source\repos\A5Server\A5Server\obj\Debug\A5Server.exe
+C:\Users\satbi\source\repos\A5Server\A5Server\obj\Debug\A5Server.pdb
+C:\Users\satbi\Desktop\A5Server\A5Server\bin\Debug\A5Server.exe.config
+C:\Users\satbi\Desktop\A5Server\A5Server\bin\Debug\A5Server.exe
+C:\Users\satbi\Desktop\A5Server\A5Server\bin\Debug\A5Server.pdb
+C:\Users\satbi\Desktop\A5Server\A5Server\obj\Debug\A5Server.csproj.AssemblyReference.cache
+C:\Users\satbi\Desktop\A5Server\A5Server\obj\Debug\A5Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\satbi\Desktop\A5Server\A5Server\obj\Debug\A5Server.csproj.CoreCompileInputs.cache
+C:\Users\satbi\Desktop\A5Server\A5Server\obj\Debug\A5Server.exe
+C:\Users\satbi\Desktop\A5Server\A5Server\obj\Debug\A5Server.pdb
