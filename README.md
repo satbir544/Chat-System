@@ -1,7 +1,7 @@
 # Chat System
 - Server-Client app that allows multiple users to connect simultaneously and allow group chat.
 
-# Demo
+## Demo
 - 1. an IP address is entered in the server app
 - 2. in the client app, a default IP address of 127.0.0.1 is used (which can be configured) to connect to the server
 - 3. the name of the client is entered after connecting to the server
