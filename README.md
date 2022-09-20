@@ -7,5 +7,6 @@
 - 3. the name of the client is entered after connecting to the server
 - 4. messages can now be sent to other connected client instances
 
-https://user-images.githubusercontent.com/69642217/190879714-274656e2-0656-4e41-a9b2-d52ab666fa26.mp4
+
+https://user-images.githubusercontent.com/69642217/191149377-059d5fbf-b124-4f78-89d5-b417f7a0b73a.mp4
 
