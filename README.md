@@ -1,5 +1,5 @@
 # Chat System
-- Server-Client app that allows multiple users to connect simultaneously and allow group chat.
+- server-Client app that allows multiple users to connect simultaneously and allow group chat
 
 ## Demo
 - 1. an IP address is entered in the server app
